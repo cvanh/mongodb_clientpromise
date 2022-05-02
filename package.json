@@ -1,0 +1,15 @@
+{
+  "name": "mongodb_clientpromise",
+  "version": "1.0.0",
+  "description": "a easy way to connect to a mongo db instance ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mongodb": "^4.5.0"
+  }
+}
